@@ -8,3 +8,12 @@ The convenience brought about by online shops in terms of delivery.
 
 Having found out the reasons why there is decline in her sales we decided to create a solution for Mama Mboga.We are developing a mobile application that will help Mama Mboga advertise her products online in order to reach a wider market of customers.The users of the application will be able to install the application,login/create an account,see products,add to cart and then place an order where they will opt for delivery or pick-up.
 On the other hand Mama mboga will be able to login/create an account,view orders and update her products.
+
+Green_Kiosk Members
+
+Kabatesi Gerardine,
+Irene Nyatichi,
+Daisy Caroline,
+Jane Kairu,
+Rebecca Kachaya,
+Catherine Gathoni
